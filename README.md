@@ -1,24 +1,19 @@
-# William - Lead Engineer & AI Solutions Architect
+# Hey there! 👋
 
-Welcome! I'm **William**, a passionate lead engineer with over a decade of expertise in full-stack development, specializing in scalable AI-driven and cloud-native solutions. My career is driven by an unwavering commitment to solving complex technical challenges and delivering innovative solutions that drive real business value.
+Welcome, I'm **William** - been building APIs and AI stuff for 10+ years. Love working on real-time systems and making things scale properly.
 
-## Core Expertise
+## What I'm into
 
-I excel in transforming ambitious ideas into robust, production-ready systems across diverse industries including fintech, gaming, and e-commerce. My approach combines deep technical knowledge with strategic thinking to deliver solutions that not only meet current needs but scale for future growth.
+- **Languages**: TypeScript, Python (PyTorch), JavaScript/Node.js, PHP (Laravel)
+- **Cloud stuff**: AWS (ECS, Lambda, S3, etc.), GCP, DigitalOcean, Cloud66, Datadog
+- **AI/ML**: PyTorch, Gen-AI, RAG, Model Training
+- **Containers**: Kubernetes, Docker, ECS
+- **Databases**: PostgreSQL, MySQL
 
-### Technical Specializations
+## Now
 
-- **Languages & Frameworks**: JavaScript, Python, and modern web technologies
-- **AI & Machine Learning**: Cutting-edge AI solutions and vertical AI applications
-- **Cloud Architecture**: Comprehensive cloud computing strategies and implementations
-- **Automation**: Intelligent system integrations and workflow optimizations
-- **Web Development**: Full-stack development with focus on performance and scalability
-- **Digital Excellence**: Website accessibility, SEO optimization, and user experience
-
-## Passion-Driven Innovation
-
-What sets me apart is my genuine passion for technology and its potential to solve real-world problems. I thrive on the intersection of innovation and practical application, always seeking to push boundaries while maintaining the highest standards of quality and reliability.
+Working on some cool projects that involve real-time collaboration and AI-powered solutions on various problems. Always excited to tackle new challenges and learn from others!
 
 ---
 
-🌐 **Explore my work**: [Portfolio & Featured Projects](https://william.wizmax.tech/)
+🌐 [Check out my portfolio website](https://william.wizmax.tech/)
