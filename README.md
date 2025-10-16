@@ -4,9 +4,9 @@ Welcome, I'm **William** - been building APIs and AI stuff for 10+ years. Love w
 
 ## What I'm into
 
-- **Languages**: TypeScript, Python (PyTorch), JavaScript/Node.js, PHP (Laravel)
+- **Languages**: TypeScript, Python (PyTorch), JavaScript/Node.js, PHP (Laravel), Java (Spring)
 - **Cloud stuff**: AWS (ECS, Lambda, S3, etc.), GCP, DigitalOcean, Cloud66, Datadog
-- **AI/ML**: PyTorch, Gen-AI, RAG, Model Training
+- **AI/ML**: PyTorch, Gen-AI, Chatbot, RAG, Model Training
 - **Containers**: Kubernetes, Docker, ECS
 - **Databases**: PostgreSQL, MySQL
 
