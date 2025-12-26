@@ -15,5 +15,3 @@ Welcome, I'm **William** - been building APIs and AI stuff for 10+ years. Love w
 Working on some cool projects that involve real-time collaboration and AI-powered solutions on various problems. Always excited to tackle new challenges and learn from others!
 
 ---
-
-🌐 [Check out my portfolio website](https://william.wizmax.tech/)
